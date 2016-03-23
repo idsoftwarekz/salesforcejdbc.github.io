@@ -1,0 +1,1 @@
+sass --update --sourcemap=none assets/sass:assets/css/
